@@ -1,0 +1,15 @@
+C:\Users\Caio Sousa\source\repos\ServidorSocketTCP\ServidorSocketTCP\bin\Debug\net6.0\ServidorSocketTCP.exe
+C:\Users\Caio Sousa\source\repos\ServidorSocketTCP\ServidorSocketTCP\bin\Debug\net6.0\ServidorSocketTCP.deps.json
+C:\Users\Caio Sousa\source\repos\ServidorSocketTCP\ServidorSocketTCP\bin\Debug\net6.0\ServidorSocketTCP.runtimeconfig.json
+C:\Users\Caio Sousa\source\repos\ServidorSocketTCP\ServidorSocketTCP\bin\Debug\net6.0\ServidorSocketTCP.dll
+C:\Users\Caio Sousa\source\repos\ServidorSocketTCP\ServidorSocketTCP\bin\Debug\net6.0\ServidorSocketTCP.pdb
+C:\Users\Caio Sousa\source\repos\ServidorSocketTCP\ServidorSocketTCP\obj\Debug\net6.0\ServidorSocketTCP.csproj.AssemblyReference.cache
+C:\Users\Caio Sousa\source\repos\ServidorSocketTCP\ServidorSocketTCP\obj\Debug\net6.0\ServidorSocketTCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Sousa\source\repos\ServidorSocketTCP\ServidorSocketTCP\obj\Debug\net6.0\ServidorSocketTCP.AssemblyInfoInputs.cache
+C:\Users\Caio Sousa\source\repos\ServidorSocketTCP\ServidorSocketTCP\obj\Debug\net6.0\ServidorSocketTCP.AssemblyInfo.cs
+C:\Users\Caio Sousa\source\repos\ServidorSocketTCP\ServidorSocketTCP\obj\Debug\net6.0\ServidorSocketTCP.csproj.CoreCompileInputs.cache
+C:\Users\Caio Sousa\source\repos\ServidorSocketTCP\ServidorSocketTCP\obj\Debug\net6.0\ServidorSocketTCP.dll
+C:\Users\Caio Sousa\source\repos\ServidorSocketTCP\ServidorSocketTCP\obj\Debug\net6.0\refint\ServidorSocketTCP.dll
+C:\Users\Caio Sousa\source\repos\ServidorSocketTCP\ServidorSocketTCP\obj\Debug\net6.0\ServidorSocketTCP.pdb
+C:\Users\Caio Sousa\source\repos\ServidorSocketTCP\ServidorSocketTCP\obj\Debug\net6.0\ServidorSocketTCP.genruntimeconfig.cache
+C:\Users\Caio Sousa\source\repos\ServidorSocketTCP\ServidorSocketTCP\obj\Debug\net6.0\ref\ServidorSocketTCP.dll

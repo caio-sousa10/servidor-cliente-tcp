@@ -1,0 +1,15 @@
+C:\Users\Caio Sousa\source\repos\ClientSocketTCP\ClientSocketTCP\bin\Debug\net6.0\ClientSocketTCP.exe
+C:\Users\Caio Sousa\source\repos\ClientSocketTCP\ClientSocketTCP\bin\Debug\net6.0\ClientSocketTCP.deps.json
+C:\Users\Caio Sousa\source\repos\ClientSocketTCP\ClientSocketTCP\bin\Debug\net6.0\ClientSocketTCP.runtimeconfig.json
+C:\Users\Caio Sousa\source\repos\ClientSocketTCP\ClientSocketTCP\bin\Debug\net6.0\ClientSocketTCP.dll
+C:\Users\Caio Sousa\source\repos\ClientSocketTCP\ClientSocketTCP\bin\Debug\net6.0\ClientSocketTCP.pdb
+C:\Users\Caio Sousa\source\repos\ClientSocketTCP\ClientSocketTCP\obj\Debug\net6.0\ClientSocketTCP.csproj.AssemblyReference.cache
+C:\Users\Caio Sousa\source\repos\ClientSocketTCP\ClientSocketTCP\obj\Debug\net6.0\ClientSocketTCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Sousa\source\repos\ClientSocketTCP\ClientSocketTCP\obj\Debug\net6.0\ClientSocketTCP.AssemblyInfoInputs.cache
+C:\Users\Caio Sousa\source\repos\ClientSocketTCP\ClientSocketTCP\obj\Debug\net6.0\ClientSocketTCP.AssemblyInfo.cs
+C:\Users\Caio Sousa\source\repos\ClientSocketTCP\ClientSocketTCP\obj\Debug\net6.0\ClientSocketTCP.csproj.CoreCompileInputs.cache
+C:\Users\Caio Sousa\source\repos\ClientSocketTCP\ClientSocketTCP\obj\Debug\net6.0\ClientSocketTCP.dll
+C:\Users\Caio Sousa\source\repos\ClientSocketTCP\ClientSocketTCP\obj\Debug\net6.0\refint\ClientSocketTCP.dll
+C:\Users\Caio Sousa\source\repos\ClientSocketTCP\ClientSocketTCP\obj\Debug\net6.0\ClientSocketTCP.pdb
+C:\Users\Caio Sousa\source\repos\ClientSocketTCP\ClientSocketTCP\obj\Debug\net6.0\ClientSocketTCP.genruntimeconfig.cache
+C:\Users\Caio Sousa\source\repos\ClientSocketTCP\ClientSocketTCP\obj\Debug\net6.0\ref\ClientSocketTCP.dll
